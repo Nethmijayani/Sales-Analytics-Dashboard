@@ -7,8 +7,11 @@
 🎯 Objectives
 
   Analyze sales data interactively
+  
   Visualize sales trends and performance metrics
+
   Identify top-performing products and revenue patterns
+  
   Provide meaningful business insights through dashboards
   
 🛠️ Technologies & Tools Used
@@ -28,9 +31,13 @@
 📊 Features
 
   Interactive sales dashboard
+  
   Revenue and sales trend analysis
+  
   Product performance visualization
+  
   Dynamic charts and filters
+  
   User-friendly interface
   
 🚀 Future Improvements
